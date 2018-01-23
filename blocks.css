@@ -1,0 +1,41 @@
+.flex-container1{
+  display: flex;
+}
+.flex-container2{
+  display: grid
+}
+    .flex-red{
+      width: 100px;
+      height: 100px;
+      background-color: red;
+    }
+    .flex-orange{
+      width: 100px;
+      height: 100px;
+      background-color: orange;
+    }
+    .flex-yellow{
+      width: 100px;
+      height: 100px;
+      background-color: yellow;
+    }
+    .flex-green{
+      width: 100px;
+      height: 100px;
+      background-color: green;
+    }
+    .flex-blue {
+      width: 100px;
+      height: 100px;
+      background-color: skyblue;
+    }
+    .flex-indigo{
+      width: 100px;
+      height: 100px;
+      background-color: blue;
+    }
+    .flex-violet{
+      width: 100px;
+      height: 100px;
+      background-color: purple;
+    }
